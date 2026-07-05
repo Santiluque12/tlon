@@ -1,0 +1,8 @@
+# Claude Code session/config
+.claude/
+
+# Vercel
+.vercel/
+
+# macOS
+.DS_Store
